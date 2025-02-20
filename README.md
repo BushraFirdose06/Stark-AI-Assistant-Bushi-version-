@@ -12,3 +12,9 @@ Stark AI Assistant (JARVIS Lite) - A voice-controlled AI assistant inspired by T
 - Basic commands (open apps, set reminders).  
 - Real time data fetching (weather, news).  
 - Marvel themed UI.  
+
+## Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/BushraFirdose06/Stark-AI-Assistant-bushi-version.git
+
