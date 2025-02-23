@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Virtual environment
+jarvis_env/
+
+# Reminders file
+reminders.txt
